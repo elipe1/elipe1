@@ -1,9 +1,8 @@
 # 👋 Olá! Sou Luiz Phelippe Aguiar!
 
-🏫 Estudante do Instituto Federal Fluminense e entusiasta de tecnologia e desenvolvimento de software.
-🎓 Tenho experiência em C, Java, PHP, MySQL, HTML, CSS e JavaScript, além de projetos que envolvem TypeScript, React e Vue.
-🚀 Atualmente estou estudando Go e aprimorando meus conhecimentos em desenvolvimento web e boas práticas de programação.
-
+🏫 Estudante do Instituto Federal Fluminense e entusiasta de tecnologia e desenvolvimento de software.</br>
+🎓 Tenho experiência em C, Java, PHP, MySQL, HTML, CSS e JavaScript, além de projetos que envolvem TypeScript, React e Vue.</br>
+🚀 Atualmente estou estudando Go e aprimorando meus conhecimentos em desenvolvimento web e boas práticas de programação.</br>
 💡 Gosto de criar soluções práticas e bem estruturadas, com foco em aprendizado contínuo e qualidade de código.
 
 📬 Entre em contato: aguiarluizphelippe@gmail.com  
