@@ -1,7 +1,11 @@
-# 👋 Olá! Eu sou o Luiz Phelippe Aguiar  
+# 👋 Olá! Sou Luiz Phelippe Aguiar, estudante do Instituto Federal Fluminense e entusiasta de tecnologia e desenvolvimento de software.
 
-🎓 Estudante do **Instituto Federal Fluminense** e entusiasta de tecnologia e desenvolvimento de software.  
-💡 Gosto de criar soluções práticas e bem estruturadas, com foco em aprendizado contínuo e qualidade de código.  
+🎓 Tenho experiência em C, Java, PHP, MySQL, HTML, CSS e JavaScript, além de projetos que envolvem TypeScript, React e Vue.
+🚀 Atualmente estou estudando Go e aprimorando meus conhecimentos em desenvolvimento web e boas práticas de programação.
+
+💡 Gosto de criar soluções práticas e bem estruturadas, com foco em aprendizado contínuo e qualidade de código.
+
+📬 Entre em contato: aguiarluizphelippe@gmail.com  
 
 ---
 
@@ -19,26 +23,3 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-### 🚀 Atualmente estudando
-- Go (Golang)
-- Desenvolvimento web moderno
-- Boas práticas e padrões de projeto
-
----
-
-### 📫 Contato
-📧 **aguiarluizphelippe@gmail.com**
-
----
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elipe1&show_icons=true&theme=radical&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=elipe1&layout=compact&theme=radical&hide_border=true)
-
----
-
-⭐ *Obrigado por visitar meu perfil!*
